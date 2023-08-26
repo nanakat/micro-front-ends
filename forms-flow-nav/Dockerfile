@@ -1,4 +1,4 @@
-# base image
+# base image can the base image change to an earlier node version?
 FROM node:16.20.1-alpine as build-stage
 
 # set working directory
